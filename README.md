@@ -1,4 +1,4 @@
 Examples
 ========
 
-Example c# porjects
+Example C# projects
